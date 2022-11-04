@@ -1,4 +1,4 @@
-# THIS REPO HAS BEEN TRANSFERREED TO http://github.com/SNFlows/flows-tools
+# THIS REPO HAS BEEN TRANSFERRED TO http://github.com/SNFlows/flows-tools
 
 # flows-tools# flows-tools
 Observer tools for the FLOWS pipeline
